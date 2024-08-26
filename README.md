@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋,  I'm Victor Ndung'u</h1>
-<h3 align="center">I am a Full Stack Developer  🤣👌 that uses my knowledge to build innovative software solutions.</h3>
+<h3 align="center">I am a Full Stack Developer 👌 that uses my knowledge to build innovative software solutions.</h3>
 
 - 🌱 I’m currently working on an AgriTech solution 
 - 👯 I’m willing to collaborate on developing mobile and web applications and also API solutions 
